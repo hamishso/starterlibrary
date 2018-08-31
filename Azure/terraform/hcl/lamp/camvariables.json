@@ -41,6 +41,14 @@
           {
               "value": "West Central US",
               "label": "West Central US"
+          },
+          {
+              "value": "Australia East",
+              "label": "Australia East"
+          },
+          {
+              "value": "Australia Southeast",
+              "label": "Australia Southeast"
           }
         ]
     },
